@@ -16,4 +16,4 @@ This Repo is part of 15 days workshop by Student branch of IEEE in JECRC Univers
 => Minor Project 2:-<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Calculator with UI using python module tkinter which Calculates CMR and IFR of selected State.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- State Wise data.csv:- This is the file that contain data of COVID 19 cases statewise on which all the things are to &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;be calculated.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- IFR and CMR Calculator:- The main file which contains programming part and have all the code of GUI and other functionality.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- IFR and CMR Calculator:- The main file which contains programming part and have all the code of GUI and &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;other functionality.
