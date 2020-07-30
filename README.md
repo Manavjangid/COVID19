@@ -15,4 +15,4 @@ This Repo is part of 15 days workshop by Student branch of IEEE in JECRC Univers
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- PPT:- This file is the main thing We were working for. This is the final Presentation of COVID 19 in Uttar Pradesh.<br>
 => Minor Project 2:-<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Calculator with UI using python module tkinter which Calculates CMR and IFR of selected State.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- State Wise data.csv:- This is the file that contain data of COVID 19 cases statewise on which all the things are to be calculated.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- State Wise data.csv:- This is the file that contain data of COVID 19 cases statewise on which all the things are to be calculated.<br>
