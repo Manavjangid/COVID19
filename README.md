@@ -1,4 +1,4 @@
-w# COVID19
+# COVID19
 Data Analysis Project<br>
 This Repo is part of 15 days workshop by Student branch of IEEE in JECRC University.
 <br><br>
@@ -22,3 +22,9 @@ This Repo is part of 15 days workshop by Student branch of IEEE in JECRC Univers
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Calculating Correlation Between Patient Recovered and Deaths in Kerala.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Performing Linear Regression on Confirmed/Cured and Confirmed/Deaths.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Visualizeing with heat map, Relationship between Cured/Confirmed/Deaths of any 3 States.<br>
+=> Major Project:-<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This Project Contains 4 Parts:-<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Major Project (Part 1):- Contains Analytics for Indian States.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Major Project (Part 2):- Correlation Heatmap for various Parameters.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Major Project (Part 3):- Performing Multivariate Linear Regression to Pridect Confirmed and Recovered Cases for August.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Major Project (Part 4):- 
