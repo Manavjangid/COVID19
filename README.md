@@ -24,7 +24,7 @@ This Repo is part of 15 days workshop by Student branch of IEEE in JECRC Univers
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Visualizeing with heat map, Relationship between Cured/Confirmed/Deaths of any 3 States.<br>
 => Major Project:-<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This Project Contains 4 Parts:-<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Major Project (Part 1):- Contains Analytics for Indian States.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Major Project (Part 2):- Correlation Heatmap for various Parameters.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Major Project (Part 3):- Performing Multivariate Linear Regression to Pridect Confirmed and Recovered Cases for August.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Major Project (Part 4):- 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Part 1:- Contains Analytics for Indian States.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Part 2:- Correlation Heatmap for various Parameters.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Part 3:- Performing Multivariate Linear Regression to Pridect Confirmed and Recovered Cases for August.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Part 4:- 
